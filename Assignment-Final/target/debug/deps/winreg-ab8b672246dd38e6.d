@@ -1,0 +1,11 @@
+C:\Users\puspa\Assignment-Final\target\debug\deps\libwinreg-ab8b672246dd38e6.rmeta: C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\lib.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\common.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\enums.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key_metadata.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_value.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\types.rs
+
+C:\Users\puspa\Assignment-Final\target\debug\deps\winreg-ab8b672246dd38e6.d: C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\lib.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\common.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\enums.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key_metadata.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_value.rs C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\types.rs
+
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\lib.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\common.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\enums.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_key_metadata.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\reg_value.rs:
+C:\Users\puspa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\winreg-0.52.0\src\types.rs:

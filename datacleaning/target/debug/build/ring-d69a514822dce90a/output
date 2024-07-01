@@ -1,0 +1,3 @@
+cargo:rustc-link-lib=static=ring-core
+cargo:rustc-link-lib=static=ring-test
+cargo:rustc-link-search=native=C:\Users\puspa\datacleaning\target\debug\build\ring-d69a514822dce90a\out
